@@ -134,6 +134,8 @@ Have a good idea for a new plugin?  Let’s [chat][gitter] and make it happen!
     — [retext](https://github.com/wooorm/retext) support
 *   [`remark-rewrite-headers`](https://github.com/strugee/remark-rewrite-headers)
     — Change heading levels
+*   [`remark-shortcodes`](https://github.com/djm/remark-shortcodes)
+    — Handles Wordpress/Hugo-like inline shortcodes with attribute support 
 *   [`remark-slug`](https://github.com/wooorm/remark-slug)
     — Add slugs to headings
 *   [`remark-strip-badges`](https://github.com/wooorm/remark-strip-badges)
